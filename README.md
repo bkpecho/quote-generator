@@ -1,5 +1,5 @@
 # Quote Generator
-This project is a responsive quote generator built using HTML, CSS, and JavaScript. The design features repeatable SVG background patterns using Hero Patterns, giving the project a modern and professional look. The application uses the Forismatic API to retrieve and display quotes, making it easy to update and maintain with new content.
+This responsive quote generator, built using HTML, CSS, and JavaScript, features modern and professional-looking repeatable SVG background patterns from Hero Patterns. The Forismatic API is used for dynamic quote retrieval and easy content updates, while Twitter web intent is integrated for easy sharing of inspiring quotes.
 
 ### Link to project: 
 
