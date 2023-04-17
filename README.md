@@ -31,3 +31,8 @@ This project provided me with valuable experience in using the Forismatic API to
 - Github - [BK Pecho](https://www.github.com/bkpecho)
 - Frontend Mentor - [@bkpecho](https://www.frontendmentor.io/profile/bkpecho)
 - Twitter - [@bkpecho](https://www.twitter.com/bkpecho)
+
+## For other examples of my work, check out these projects:
+
+- **Infinite Scroll:** [GitHub Repository](https://github.com/bkpecho/infinite-scroll)
+- **Social Proof Section:** [GitHub Repository](https://github.com/bkpecho/social-proof-section)
